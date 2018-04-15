@@ -15,4 +15,7 @@
 ## Dynamic Programming
 1)Intelligent Girl <br />
 
+## Basic Programming
+1)Prime Number
+
 I wont say it is a correct solution.I will try best to solve it
